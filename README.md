@@ -34,9 +34,8 @@ The easiest way to buy & manage SaaS
 
 ### 📫 How to Reach Me
 
-- **Email**: [david.chinweike@example.com](mailto:david.chinweike@example.com)
+- **Email**: [chinweike89@gmail.com](mailto:chinweike89@gmail.com)
 - **LinkedIn**: [linkedin.com/in/david-chinweike](https://linkedin.com/in/david-chinweike)
-- **Twitter**: [twitter.com/davidchinweike](https://twitter.com/davidchinweike)
 
 ---
 
