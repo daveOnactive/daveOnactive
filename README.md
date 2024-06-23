@@ -1,16 +1,37 @@
-## Hi there 👋
+## 👋 Hi, I'm David Chinweike
 
-<!--
-**daveOnactive/daveOnactive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Frontend Engineer | 💼 5 Years of Experience | 🎨 Passionate about Creating Intuitive User Interfaces | AI | Web3
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌐 About Me
+
+I am a dedicated and experienced Frontend Engineer from Nigeria with a strong passion for developing sleek, responsive, and user-friendly web applications. Over the past five years, I have honed my skills in various front-end technologies, consistently delivering high-quality work and innovative solutions.
+
+### 🔧 Technologies & Tools
+
+- **Languages**: JavaScript, TypeScript, HTML5, CSS3
+- **Frameworks/Libraries**: React, Angular, Vue.js, Next.js
+- **State Management**: Redux, MobX, Context API
+- **Styling**: Sass, Less, Tailwind CSS, Bootstrap, Material-UI
+- **Tools**: Git, Webpack, Babel, ESLint, Prettier, Figma
+- **Testing**: Jest, React Testing Library, Cypress
+- **Others**: RESTful APIs, GraphQL, Responsive Design, Agile/Scrum
+
+### 🌟 Projects
+
+#### [ExchangePal](https://www.exchangepal.com)
+ExchangePal helps to convert one currency to another and perform international money transfers to friends and family. Experience a better way to send money with ExchangePal.
+
+#### [Sastrify](https://www.sastrify.com/)
+The easiest way to buy & manage SaaS
+
+### 📫 How to Reach Me
+
+- **Email**: [david.chinweike@example.com](mailto:david.chinweike@example.com)
+- **LinkedIn**: [linkedin.com/in/david-chinweike](https://linkedin.com/in/david-chinweike)
+- **Twitter**: [twitter.com/davidchinweike](https://twitter.com/davidchinweike)
+
+### 🚀 Let's Connect
+
+Feel free to reach out for collaboration on exciting projects, discussing innovative ideas, or any opportunities in the front-end development space. I'm always open to connecting with like-minded professionals and contributing to impactful projects.
