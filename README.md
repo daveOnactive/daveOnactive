@@ -8,6 +8,8 @@
 
 I am a dedicated and experienced Frontend Engineer from Nigeria with a strong passion for developing sleek, responsive, and user-friendly web applications. Over the past five years, I have honed my skills in various front-end technologies, consistently delivering high-quality work and innovative solutions.
 
+---
+
 ### 🔧 Technologies & Tools
 
 - **Languages**: JavaScript, TypeScript, HTML5, CSS3
@@ -18,6 +20,8 @@ I am a dedicated and experienced Frontend Engineer from Nigeria with a strong pa
 - **Testing**: Jest, React Testing Library, Cypress
 - **Others**: RESTful APIs, GraphQL, Responsive Design, Agile/Scrum
 
+---
+
 ### 🌟 Projects
 
 #### [ExchangePal](https://www.exchangepal.com)
@@ -26,11 +30,15 @@ ExchangePal helps to convert one currency to another and perform international m
 #### [Sastrify](https://www.sastrify.com/)
 The easiest way to buy & manage SaaS
 
+---
+
 ### 📫 How to Reach Me
 
 - **Email**: [david.chinweike@example.com](mailto:david.chinweike@example.com)
 - **LinkedIn**: [linkedin.com/in/david-chinweike](https://linkedin.com/in/david-chinweike)
 - **Twitter**: [twitter.com/davidchinweike](https://twitter.com/davidchinweike)
+
+---
 
 ### 🚀 Let's Connect
 
