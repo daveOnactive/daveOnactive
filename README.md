@@ -1,4 +1,4 @@
-## 👋 Hi, I'm David Chinweike
+## 👋 Hi, I'm Chidiebere
 
 👨‍💻 Frontend Engineer | 💼 5 Years of Experience | 🎨 Passionate about Creating Intuitive User Interfaces | AI | Web3
 
